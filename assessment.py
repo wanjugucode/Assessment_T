@@ -8,15 +8,15 @@
 
 
 
-Class Calculations:
+Class Calculation:
     def __init__(self,length,width):
         self.lenth=length
         self.width=width
         
-    def area():
+    def area(self):
         myCal=self.length*self.width
         return myCal
-cal=Calculations(4,6)
+cal=Calculation(4,6)
 print(cal)
 
 
