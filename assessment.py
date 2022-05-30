@@ -10,7 +10,7 @@
 
 Class Calculations:
     def __init__(self,length,width):
-        self.side=side
+        self.lenth=length
         self.width=width
         
     def area():
